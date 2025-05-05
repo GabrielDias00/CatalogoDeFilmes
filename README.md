@@ -1,5 +1,5 @@
 # CatálogoDeFilmes
-Você pode acessar o projeto rodando em: [Catálogo de Filmes](https://catalogo-de-filmes-one.vercel.app/)
+Você pode acessar o projeto rodando em: [Catálogo de Filmes](https://catalogo-de-filmes-jvicy1vfv-gabrieldias00s-projects.vercel.app/)
 
 Rebobinando
 
